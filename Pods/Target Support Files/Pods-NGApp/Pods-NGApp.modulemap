@@ -1,0 +1,6 @@
+framework module Pods_NGApp {
+  umbrella header "Pods-NGApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

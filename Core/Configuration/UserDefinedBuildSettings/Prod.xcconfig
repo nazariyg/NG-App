@@ -1,0 +1,6 @@
+// Copyright © 2021 Nazariy Gorpynyuk.
+// All rights reserved.
+
+#include "Common.xcconfig"
+
+ENVIRONMENT = Prod
