@@ -1,1 +1,1 @@
-# NG-App
+This repository contains only my own code that I've been writing since 2018, first in Swift 4.2 and then in Swift 5. It reflects my vision of an iOS app that is based in high code quality, robustness, modularity, reusability, and testability.
